@@ -1,2 +1,2 @@
-Hello, this is Pippoosh
+Hello, this is Pippoosh. 
 I am a cat.
