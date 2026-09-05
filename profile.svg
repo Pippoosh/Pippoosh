@@ -5,8 +5,8 @@
         .hi { fill: #7f9ca4; }
         .name { file: #f2e6bc; }
         @media {
-            .hi { fill: #49636b; }
-            .name { fill: #8a7340; }
+            .hi { fill: #7f9ca4; }
+            .name { file: #f2e6bc; }
         }
     </style>
 
