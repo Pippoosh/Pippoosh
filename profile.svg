@@ -3,10 +3,10 @@
 
     <style>
         .hi { fill: #a2c4cf; }
-        .name { fill: #fff4d6; }
+        .name { fill: #fffbeb; }
         @media {
             .hi { fill: #a2c4cf; }
-            .name { fill: #fff4d6; }
+            .name { fill: #fffbeb; }
         }
     </style>
 
