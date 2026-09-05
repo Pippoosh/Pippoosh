@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="48" viewbox="0 0 340 48" role="img" aria-labelledby="title">
+    <title id="title">Hi, I'm Pippoosh</title>
+
+    <style>
+        .hi { fill: #7f9ca4; }
+        .name { file: #f2e6bc; }
+        @media {
+            .hi { fill: #49636b; }
+            .name { fill: #8a7340; }
+        }
+    </style>
+
+    <text x="170" y="32" text-anchor="middle"
+        font-family="Jetbrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="20" font-weight="500">
+        <tspan class="hi">Hi, I'm</tspan>
+        <tspan class="name">Pippoosh</tspan>
+    </text>
+</svg>
