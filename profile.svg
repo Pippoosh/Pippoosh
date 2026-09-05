@@ -2,11 +2,11 @@
     <title id="title">Hi, I'm Pippoosh</title>
 
     <style>
-        .hi { fill: #7f9ca4; }
-        .name { file: #f2e6bc; }
+        .hi { fill: #a2c4cf; }
+        .name { file: #fff4d6; }
         @media {
-            .hi { fill: #7f9ca4; }
-            .name { file: #f2e6bc; }
+            .hi { fill: #a2c4cf; }
+            .name { file: #fff4d6; }
         }
     </style>
 
